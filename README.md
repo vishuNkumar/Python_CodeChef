@@ -1,7 +1,7 @@
 # Python_Programming_Course By CodeChef
 This repository contains the coursework, exercises completed during the Learn Python Programming course offered by CodeChef. 
 The course is designed to build a solid foundation in Python, covering essential programming concepts, data structures, algorithms, 
-and solve than 200+ problems.
+and solve 200+ problems.
 ## Course Overview
 - Output / Print in Python
 - Variables and datatypes
