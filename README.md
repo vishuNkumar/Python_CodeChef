@@ -5,6 +5,7 @@ and solve than 200+ problems.
 ## Course Overview
 - Output / Print in Python
 - Variables and datatypes
+- Operators
 - Strings
 - Taking input from users
 - Conditional statements
